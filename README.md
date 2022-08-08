@@ -21,7 +21,3 @@ A python script that generates a scam nitro QR code which can grab a victim's au
 6. Wait for `discord_gift.png` to be generated. Then, send the image to a victim for them to scan it. Note that the QR code is only valid for approximately two minutes after creation.
 
 7. When the QR code is scanned, you will be logged onto their account and receive their discord authentication token.
-
-## Need extra help?
-
-[Join the discord server for support!](https://discord.gg/a24Sp9bEXu)
